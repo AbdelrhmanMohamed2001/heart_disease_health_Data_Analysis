@@ -7,3 +7,7 @@ Data Analysis Project that makes analysis on heart disease by getting the relati
 2- Apply EDA.
 
 3- Know how each feature affects the heart disease feature.
+
+4- Plot all the features.
+
+5- Get Mutual Information for each feature to know what is the most important feature.
